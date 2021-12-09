@@ -1,6 +1,8 @@
  collection of utility function
 
  #Examples
+ 
+ 
 
  ```
  getRandomElement([1,2,3)];
